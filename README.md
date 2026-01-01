@@ -13,3 +13,8 @@ I only test:
 - Open-source software in a local test environment
 
 No real-world unauthorized testing. No sensitive data. No unpatched 0-days published.
+
+
+## Weekly repos
+
+- Week 01: [Repo name here](https://github.com/<your-username>/<repo>)
